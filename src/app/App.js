@@ -1,10 +1,12 @@
 import './App.css';
+import LandingPage from '../pages/LandingPage';
+import Layout from './layout/Layout';
 
 function App() {
   return (
-    <div className="bg-black text-white">
-      <h1>Hello World</h1>
-    </div>
+    <Layout>
+      <LandingPage />
+    </Layout>
   );
 }
 
