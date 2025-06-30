@@ -1,0 +1,11 @@
+export { ReactComponent as HtmlIcon } from './svg/html-icon.svg';
+export { ReactComponent as JsIcon } from './svg/js-icon.svg';
+export { ReactComponent as NextIcon } from './svg/next-js-icon.svg';
+export { ReactComponent as ReactIcon } from './svg/react-icon.svg';
+export { ReactComponent as TsIcon } from './svg/typescript-icon.svg';
+export { ReactComponent as CssIcon } from './svg/css-icon.svg';
+export { ReactComponent as TailwindIcon } from './svg/tailwind-icon.svg';
+export { ReactComponent as GitIcon } from './svg/git-icon.svg';
+export { ReactComponent as JavaIcon } from './svg/java-icon.svg';
+export { ReactComponent as PostgresqlIcon } from './svg/postgresql-icon.svg';
+export { ReactComponent as SpringIcon } from './svg/spring-icon.svg';
