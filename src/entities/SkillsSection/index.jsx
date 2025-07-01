@@ -18,13 +18,13 @@ export default function SkillsSection() {
 
   return (
     <div className="page-width flex flex-col items-center justify-center py-10">
-      <h4 className="font-montserrat font-bold px-4 py-2 rounded-lg bg-gray-100 text-[14px] lg:text-[20px]">
+      <h4 className="font-montserrat text-gray-900 font-bold px-4 py-2 rounded-lg bg-gray-100 text-[14px] lg:text-[20px]">
         Skills
       </h4>
-      <p className="font-montserrat text-[18px] lg:text-[24px] text-center mt-4 text-gray-600">
+      <p className="font-montserrat text-[18px] lg:text-[24px] text-center mt-4 text-gray-900">
         The skills, tools and technologies I am really good at:
       </p>
-      <div className="relative w-full overflow-hidden mt-10">
+      <div className="relative w-full overflow-hidden mt-16">
         <motion.div
           variants={marquee}
           animate="animate"
