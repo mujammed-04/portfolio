@@ -19,7 +19,6 @@ export default function Header() {
         <div className="text-2xl font-montserrat font-bold text-gray-900">
           &lt;Mujammed /&gt;
         </div>
-        
       </div>
     </header>
   );
