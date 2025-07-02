@@ -18,7 +18,7 @@ export default function SkillsSection() {
 
   return (
     <div
-      className="page-width flex flex-col items-center justify-center py-10"
+      className="page-width flex flex-col items-center justify-center py-20"
       id="skills"
     >
       <h4 className="font-montserrat text-gray-900 font-bold px-4 py-2 rounded-lg bg-gray-100 text-[14px] lg:text-[20px]">
